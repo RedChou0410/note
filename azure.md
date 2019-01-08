@@ -25,14 +25,14 @@ Azure CDN 有三家產品，我們用哪一套 CDN?
 (Akami, ?, ?)
 
 **CDN purge?**
->>> preload 或 purge API 清除
->>> 建議動態產生檔名
+> preload 或 purge API 清除
+> 建議動態產生檔名
 
 **如何知道單點故障發生在哪?**
->>> Azure Moniter?
+> Azure Moniter?
 
 **server 互為備援的舉例, 那架構該怎麼做?**
->>> Staging & Produciton 有各自環境
+> Staging & Produciton 有各自環境
 
 DB 如何做資料備份?
 
