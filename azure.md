@@ -26,6 +26,7 @@ Azure CDN 有三家產品，我們用哪一套 CDN?
 
 **CDN purge?**
 > preload 或 purge API 清除
+
 > 建議動態產生檔名
 
 **如何知道單點故障發生在哪?**
