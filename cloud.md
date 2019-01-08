@@ -1,4 +1,4 @@
-# Azure Cloud
+# Azure Cloud IaaS
 
 Azure Dev/Test 環境
 > cose 較便宜
@@ -23,3 +23,9 @@ vm 越來越多 成本越來越高
 訂閱 type ? RI?
 
 地端 licence 上 cloud?
+
+用 traffic manager 切 server
+
+> akami 切換
+
+HA 架構 / 高可用度架構
